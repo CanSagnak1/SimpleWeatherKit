@@ -48,7 +48,7 @@ SimpleWeatherKit, Swift Package Manager (SPM) aracılığıyla kolayca projenize
 2.  Açılan penceredeki arama çubuğuna bu repository'nin URL'ini yapıştırın:
 
     ```
-    https://github.com/CanSagnak1/SimpleWeatherKit
+    https://github.com/tgy-edc/SimpleWeatherKit
     ```
 
 3.  "Dependency Rule" olarak "Up to Next Major Version" seçin ve "Add Package" butonuna tıklayın.
@@ -60,7 +60,7 @@ SimpleWeatherKit, Swift Package Manager (SPM) aracılığıyla kolayca projenize
 
 ```swift
 dependencies: [
-    .package(url: "[https://github.com/SENIN-KULLANICI-ADIN/SimpleWeatherKit](https://github.com/SENIN-KULLANICI-ADIN/SimpleWeatherKit)", from: "1.0.0")
+    .package(url: "[https://github.com/tgy-edc/SimpleWeatherKit](https://github.com/tgy-edc/SimpleWeatherKit)", from: "1.0.0")
 ],
 ```
 
